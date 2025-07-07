@@ -32,9 +32,9 @@ Hey! I'm a **developer**. My name is **Evan**.
 
 ### 🔧Skills - Language and tools
 
-![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python,shadcnui)
+![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python,shadcnui,supabase)
 
-![My Skills2](https://skills-icons.vercel.app/api/icons?i=postgresql,github,vercel,linux,ubuntu,debian,markdown,cloudflare)
+![My Skills2](https://skills-icons.vercel.app/api/icons?i=postgresql,github,vercel,linux,ubuntu,debian,npm,cloudflare,canva)
 
 ### 📌Connect with me
 
@@ -47,7 +47,7 @@ Hey! I'm a **developer**. My name is **Evan**.
 
 <p align="left">
   <a href="https://bsky.app/profile/e.xyehr.cn" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="37" alt="Bluesky"></a>
-<a href="https://t.me/@EvanTechDev" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Dev_Huang"></a>
+<a href="https://t.me/@EvanTechDev" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Evan Huang"></a>
   <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://cdn.xyehr.cn/images/svg/discord.svg" height="30" width="40" alt="dev.huang"></a>
   <a href="mailto:evan.huang000@proton.me" target="blank"><img src="https://cdn.xyehr.cn/images/svg/Proton-Mail.svg" height="30" width="40" alt="Proton Mail"></a>
 </p>
