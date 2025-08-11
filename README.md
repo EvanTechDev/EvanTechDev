@@ -31,6 +31,7 @@ Hey! I'm a **developer**. My name is **Evan**.
 
 <p align="left">
 <a href="https://t.me/@EvanTechDev" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Evan Huang"></a>
+  <a href="https://signal.me/#eu/LPSp6Cqhc0hdrV50dcwPhoG1fyvOTQklMmjVnZEr-KVasz3wPiRPYZZ1eyjM5BwZ" target="blank"><img src="https://cdn.xyehr.cn/images/svg/signal.svg" height="30" width="40" alt="Evan Huang"></a>
   <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://cdn.xyehr.cn/images/svg/discord.svg" height="30" width="40" alt="dev.huang"></a>
   <a href="mailto:evan.huang000@proton.me" target="blank"><img src="https://cdn.xyehr.cn/images/svg/Proton-Mail.svg" height="30" width="40" alt="Proton Mail"></a>
 </p>
