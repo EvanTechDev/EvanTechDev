@@ -24,7 +24,6 @@ Hey! I'm a **developer**. My name is **Evan**.
 
 <p align="left">
   <a href="https://threads.net/@evan.tech" target="blank"><img src="https://skills-icons.vercel.app/api/icons?i=threads" height="30" width="40" alt="Threads"></a>
-  <a href="https://bsky.app/profile/e.xyehr.cn" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="37" alt="Bluesky"></a>
 <a href="https://x.com/EvanTechDev" target="blank"><img src="https://skills-icons.vercel.app/api/icons?i=x" height="30" width="40" alt="X"></a>
 <a href="https://instagram.com/evan.tech" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="30" width="40" alt="Instagram"></a>
 </p>
