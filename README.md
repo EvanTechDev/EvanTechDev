@@ -1,26 +1,26 @@
-<h2 align="center">Hi! I'm Evan😃</h2>
+<h2 align="left">Evan Huang</h2>
 
 <!--Keep Old Username-->
 ![Views](https://count.getloli.com/get/@Dev-Huang1.github.readme)
 
-### 👋About me
+### About me
 
-Hey! I'm a **developer**. My name is **Evan**.
-- 🌱 I am **currently learning TypeScript**.
-- 🤗 **Pronouns**: *He/Him*.
-- 💬 You can find me on [**Threads**](https://threads.com/@evan.tech).
-- 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
-- 🖥️ **Portfolio**: [**Portfolio**](https://e.xyehr.cn)
-- ⚡ **Hobbies**: *play games* 🎮 *and coding*😉.
-- 🧩 **Tech Stack**: MERN
+I'm a **developer**. My name is **Evan**.
+-  I am **currently learning TypeScript**.
+-  **Pronouns**: *He/Him*.
+-  You can find me on [**Threads**](https://threads.com/@evan.tech).
+-  **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
+-  **Portfolio**: [**Portfolio**](https://e.xyehr.cn)
+-  **Hobbies**: *play games*  *and coding*.
+-  **Tech Stack**: MERN
 
-### 🔧Skills - Language and tools
+### Skills - Language and tools
 
 ![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python,shadcnui,supabase)
 
 ![My Skills2](https://skills-icons.vercel.app/api/icons?i=postgresql,github,vercel,linux,ubuntu,debian,npm,cloudflare,canva)
 
-### 📌Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://threads.net/@evan.tech" target="blank"><img src="https://skills-icons.vercel.app/api/icons?i=threads" height="30" width="40" alt="Threads"></a>
@@ -36,13 +36,12 @@ Hey! I'm a **developer**. My name is **Evan**.
 </p>
 
 
-### 🏷Information Card
+### Information Card
 ![Info](m.svg)
 
 ![History](/profile-3d-contrib/profile-green-animate.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanTechDev&show_icons=true&hide_title=false&hide_border=true&theme=auto/)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EvanTechDev)
 
 <!--Thanks for watching😄-->
