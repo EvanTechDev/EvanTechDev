@@ -29,7 +29,7 @@ I'm a **developer**. My name is **Evan**.
 </p>
 
 <p align="left">
-<a href="https://t.me/@EvanTechDev" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Evan Huang"></a>
+<a href="https://t.me/@Ev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Evan Huang"></a>
   <a href="https://signal.me/#eu/LPSp6Cqhc0hdrV50dcwPhoG1fyvOTQklMmjVnZEr-KVasz3wPiRPYZZ1eyjM5BwZ" target="blank"><img src="https://cdn.xyehr.cn/images/svg/signal.svg" height="30" width="40" alt="Evan Huang"></a>
   <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://cdn.xyehr.cn/images/svg/discord.svg" height="30" width="40" alt="dev.huang"></a>
   <a href="mailto:evan.huang000@proton.me" target="blank"><img src="https://cdn.xyehr.cn/images/svg/Proton-Mail.svg" height="30" width="40" alt="Proton Mail"></a>
@@ -40,8 +40,5 @@ I'm a **developer**. My name is **Evan**.
 ![Info](m.svg)
 
 ![History](/profile-3d-contrib/profile-green-animate.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanTechDev&show_icons=true&hide_title=false&hide_border=true&theme=auto/)
-
 
 <!--Thanks for watching😄-->
