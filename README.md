@@ -1,7 +1,7 @@
 <h2 align="left">Evan Huang</h2>
 
 <!--Keep Old Username-->
-![Views](https://count.getloli.com/get/@Dev-Huang1.github.readme)
+![Views](https://count.getloli.com/get/@Dev-Huang1.github.readme?theme=booru-lewd)
 
 ### About me
 
