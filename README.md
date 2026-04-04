@@ -11,13 +11,12 @@ I'm a **developer**. My name is **Evan**.
 -  You can find me on [**Bluesky**](https://bsky.app/profile/@e.xyehr.cn).
 -  **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
 -  **Portfolio**: [**Portfolio**](https://e.xyehr.cn)
--  **Tech Stack**: MERN
 
 ### Skills - Language and tools
 
-![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python,shadcnui,supabase)
+![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python)
 
-![My Skills2](https://skills-icons.vercel.app/api/icons?i=postgresql,github,vercel,linux,ubuntu,debian,npm,cloudflare,canva)
+![My Skills2](https://skills-icons.vercel.app/api/icons?i=postgresql,github,vercel,npm,cloudflare,shadcnui,supabase)
 
 ### Connect with me
 
