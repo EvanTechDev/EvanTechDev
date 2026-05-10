@@ -1,26 +1,12 @@
+  <img src="https://github.com/user-attachments/assets/fb50be2e-3a6b-4b8e-8348-819e79db585b" alt="Banner" width="100%" height="200" style="object-fit: cover;">
+
 <h2 align="left">Evan Huang</h2>
 
-<!--Keep Old Username-->
-![Views](https://count.getloli.com/get/@Dev-Huang1.github.readme?theme=booru-lewd)
+Frontend developer.
 
-### About me
+<div align="left">
+  <a href="https://e.xyehr.cn"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/e.xyehr.cn"><img src="https://img.shields.io/badge/Bluesky-black?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="https://instagram.com/evan.tech"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
-I'm a **developer**. My name is **Evan**.
--  I am **currently learning TypeScript**.
--  **Pronouns**: *She/Her*.
--  You can find me on [**Bluesky**](https://bsky.app/profile/@e.xyehr.cn).
--  **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
--  **Portfolio**: [**Portfolio**](https://e.xyehr.cn)
-
-### Skills - Language and tools
-
-![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python)
-
-![My Skills2](https://skills-icons.vercel.app/api/icons?i=postgresql,github,vercel,npm,cloudflare,shadcnui,supabase)
-
-### Information Card
-![Info](m.svg)
-
-![History](/profile-3d-contrib/profile-green-animate.svg)
-
-<!--Thanks for watching😄-->
