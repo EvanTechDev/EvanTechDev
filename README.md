@@ -5,7 +5,7 @@
 Frontend developer.
 
 <div align="left">
-  <a href="https://e.xyehr.cn"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=https://github.com/user-attachments/assets/bccbc48f-65b9-4204-8ced-e38a9f3dfb9f" /></a>
+  <a href="https://e.xyehr.cn"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge" /></a>
   <a href="https://bsky.app/profile/e.xyehr.cn"><img src="https://img.shields.io/badge/Bluesky-black?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
   <a href="https://instagram.com/evan.tech"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
