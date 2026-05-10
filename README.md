@@ -1,8 +1,8 @@
   <img src="https://github.com/user-attachments/assets/fb50be2e-3a6b-4b8e-8348-819e79db585b" alt="Banner" width="100%" height="200" style="object-fit: cover;">
 
-<h2 align="left">Evan Huang</h2>
+<h2 align="left">Frontend Developer</h2>
 
-Frontend developer.
+I love ATProto
 
 <div align="left">
   <a href="https://e.xyehr.cn"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge" /></a>
