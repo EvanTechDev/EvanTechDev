@@ -2,7 +2,7 @@
 
 <h2 align="left">Frontend Developer</h2>
 
-I love ATProto
+I love Open Source
 
 <div align="left">
   <a href="https://e.xyehr.cn"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge" /></a>
