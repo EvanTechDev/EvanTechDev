@@ -1,27 +1,36 @@
-name: Generate Achievements # 工作流名称
+name: GitHub Achievements
 
-on: # 触发条件
-  schedule: # 定时运行
-    - cron: "0 18 * * *" 
-  workflow_dispatch: # 支持手动触发
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
-permissions: # 设置权限
-  contents: write # 允许写入仓库内容
+permissions:
+  contents: write
 
 jobs:
-  github-achievements: # 任务名称
-    runs-on: ubuntu-latest # 运行环境
+  update-achievements:
+    runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v3 # 检出仓库代码
-      - uses: lowlighter/metrics@latest # 使用 metrics Action
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # 使用自定义 PAT
-          filename: m.svg # 输出文件名
-          base: header, activity, community, repositories # 显示信息
-      - name: Commit & Push # 提交生成的文件
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          filename: achievements.svg
+          base: header, activity, community, repositories
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          
+      - name: Push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Update achievements" || echo "No changes to commit"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add achievements.svg
+          git commit -m "chore: update achievements [skip ci]" || exit 0
           git push
