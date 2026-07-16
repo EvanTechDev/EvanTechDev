@@ -24,8 +24,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           filename: achievements.svg
           base: header, activity, community, repositories
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
           
       - name: Push changes
         run: |
